@@ -1,6 +1,6 @@
 ## Review 
 
-In preparation for your test tomorrow, take the time to step through the code line by line and reproduce the output.
+In preparation for your test tomorrow, take the time to step through the code line by line and reproduce the output. Feel free to use the computer to check your work. You won't have a computer for the test so it is important to make sure that you can solve them without electronic assistance
 
 The problem sets are pencil-and-paper exercises rather than programming problems.
 
